@@ -1,5 +1,5 @@
 # Step to do 
-git status
+git status br
 echo "# hundred_days" >> README.md  
 git init
 git add .    
