@@ -7,4 +7,5 @@
 # git branch -M main     
 # git remote add origin https://github.com/DevOopz/hundreddays.git
 # git push -u origin main 
+Git remote set-url origin -----url-----
 # All Done 👍
